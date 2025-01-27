@@ -24,8 +24,8 @@
 
 ## Lektioner
 ##### Med tillhörande repon
-* **[Måndag]()** - Presentationer i smågrupper av projektet. Eget arbete.
-* **[Tisdag]()** - Introduktion till Typescript. Demo av projekt individuellt med lärare.
-* **[Onsdag]()** - 
+* **[Måndag]()** - 09:30 - Presentationer i smågrupper av projektet. Eget arbete.
+* **[Tisdag]()** - 09:30 - Introduktion till Typescript. 13:15-14:00 - APL med Linnea. 14:10 - Demo av projekt individuellt med lärare.
+* **[Onsdag]()** - 09:30 - Föreläsning i Typescript. 13:15 - Demo av projekt individuellt med lärare.
 * **[Torsdag]()** - 
 * **[Fredag]()** - 
