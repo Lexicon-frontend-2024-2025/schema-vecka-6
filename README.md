@@ -10,10 +10,9 @@
 ## Material
 #### E-Learning:
 #### Utvalda för denna veckan:
-Se de kurser som är för Beginner/Intermediate, men skippa "Unit test with Jest" för tillfället. Code Lab är frivilligt likaså Advanced-delen.
-[TypeScript Path](https://app.pluralsight.com/paths/skill/typescript)
+* Se de kurser som är för Beginner/Intermediate, men skippa "Unit test with Jest" för tillfället. Code Lab är frivilligt likaså Advanced-delen. [TypeScript Path](https://app.pluralsight.com/paths/skill/typescript)
 
-Om ni föredrar att läsa, så gå istället igenom materialet på [W3 Schools](https://www.w3schools.com/typescript/index.php). Det går inte igenom allt som Pluralsight gör, men ger ändå en ok grund. 
+* Om ni föredrar att läsa, så gå istället igenom materialet på [W3 Schools](https://www.w3schools.com/typescript/index.php). Det går inte igenom allt som Pluralsight gör, men ger ändå en ok grund. 
 
 ## Slides
 *
