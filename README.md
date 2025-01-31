@@ -15,7 +15,7 @@
 * Om ni föredrar att läsa, så gå istället igenom materialet på [W3 Schools](https://www.w3schools.com/typescript/index.php). Det går inte igenom allt som Pluralsight gör, men ger ändå en ok grund. 
 
 ## Inför presentation/redovisning
-Förbered en 15 min (ni måste inte prata så länge, utan kan ge utrymme för frågor och dylikt också om ni önskar. Tänk att ni har 15 min till förfogande som är er tid.) presentation av ert projekt där ni demar den centrala funktionalitet ni har gjort och berättar kortfattat om koden bakom denna. Använd er av länkarna nedan och se till att kunna dela koden via Live Share i VS Code så att andra kan följa med ordentligt. 
+Förbered en 15 min presentation av ert projekt där ni demar den centrala funktionalitet ni har gjort och berättar kortfattat om koden bakom denna (ni måste inte prata så länge, utan kan ge utrymme för frågor och dylikt också om ni önskar. Tänk att ni har 15 min till förfogande som är er tid.) . Använd er av länkarna nedan och se till att kunna dela koden via Live Share i VS Code så att andra kan följa med ordentligt. 
 
 * [Top 5 Mistakes when giving demos](https://www.youtube.com/watch?v=MyLdT-joADc)
 * [How to present code](https://www.youtube.com/watch?v=8B6p2_QCzTU)
