@@ -31,7 +31,7 @@ Förbered en 15 min presentation av ert projekt där ni demar den centrala funkt
 
 ## Lektioner
 ##### Med tillhörande repon
-* **[Måndag]()** - 09:30 - Presentationer i smågrupper av JS-projektet (15 min/person). Därefter eget arbete med e-learning.
+* **[Måndag]()** - 09:30 - Presentationer i smågrupper av JS-projektet (15 min/person). Övrig tid arbete med e-learning.
 * **[Tisdag]()** - 09:30 - Introduktion till Typescript. 13:15-14:00 - APL med Linnea. 14:10 - Demo av projekt individuellt med lärare.
 * **[Onsdag]()** - 09:30 - Föreläsning om Typescript. 13:15 - Demo av projekt individuellt med lärare.
 * **[Torsdag]()** - 09:30 - Föreläsning om Typescript. Eget arbete.
