@@ -27,7 +27,10 @@ Förbered en 15 min presentation av ert projekt där ni demar den centrala funkt
 * [https://www.youtube.com/watch?v=E6NO0rgFub4](https://www.youtube.com/watch?v=E6NO0rgFub4)
 
 ## Slides
-*
+* [TS - intro](https://docs.google.com/presentation/d/1w_sh0RRpnVx0MgWCw_0KWuc-h4Gzg4cJiSZhGXvVGag/edit?usp=sharing)
+
+## Övningar
+* [TS Bootcamp](https://github.com/Lexicon-frontend-2024-2025/ts-bootcamp)
 
 ## Lektioner
 ##### Med tillhörande repon
