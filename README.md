@@ -38,4 +38,4 @@ Förbered en 15 min presentation av ert projekt där ni demar den centrala funkt
 * **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lektion-4-feb)** - 09:30 - Introduktion till Typescript. 13:15-14:00 - APL med Linnea. 14:10 - Demo av projekt individuellt med lärare.
 * **[Onsdag]()** - 13:15 - Demo av projekt individuellt med lärare. Eget arbete
 * **[Torsdag]()** - 09:30 - Föreläsning om Typescript. Eget arbete.
-* **[Fredag]()** - 09:30 - Eget arbete.
+* **[Fredag]()** - 09:30 - Eget arbete. 15.00-17.00 - Tid för APL-sök
